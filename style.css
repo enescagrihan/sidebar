@@ -16,7 +16,6 @@ body {
     position: fixed;
     top: 0;
     left: 0;
-    z-index: 1; /**/
     background-color: rgba(67, 95, 53, .7);
     overflow: hidden;
     transition: .8s;
@@ -41,7 +40,6 @@ body {
     display: block;
     margin: 10px 0 10px 56px;
 }
-
 
 #close-btn {
     position: absolute;
